@@ -6,8 +6,7 @@ What is it?
 
 How to run?
 ------------
--Double clicking the executable file "adobe.webserver-0.0.1-SNAPSHOT-jar-with-dependencies.jar" will 
-start the server in background.
+-This is a maven project which can be built using the usual command "mvn clean install". A script has been included which starts the server in background.
 
 External Dependencies and libraries used
 -------------------------------------------
