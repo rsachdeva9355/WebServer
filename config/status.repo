@@ -1,0 +1,9 @@
+#Wed Jul 02 14:53:04 IST 2014
+500=Internal Server Error
+404=Not Found
+403=Forbidden
+200=OK
+400=Bad Request
+302=Found
+501=Not Implemented
+202=Accepted
